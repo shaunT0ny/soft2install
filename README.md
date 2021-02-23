@@ -4,3 +4,4 @@
 更换电脑后需要安装什么软件
 1. DeskPins 
 2. winXray
+3. KinhDown 百度云加速
